@@ -4,7 +4,6 @@
 import random
 from datetime import datetime
 
-from pyrogram import filters
 from pyrogram.enums import ChatType
 from pyrogram.types import InlineKeyboardMarkup, Message
 

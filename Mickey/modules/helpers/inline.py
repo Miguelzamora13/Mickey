@@ -1,8 +1,7 @@
 from pyrogram.types import InlineKeyboardButton
 
 from config import SUPPORT_GRP, UPDATE_CHNL
-from Mickey import OWNER
-from Mickey import MickeyBot
+from Mickey import OWNER, MickeyBot
 
 DEV_OP = [
     [
