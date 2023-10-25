@@ -3,7 +3,7 @@ from Mickey import db
 usersdb = db.users
 
 
-async def is_served_user(6102546674: int) -> bool:
+async def is_served_user(user_id: int) -> bool:
     user = await usersdb.find_one({"user_id": user_id})
     if not user:
         return False
