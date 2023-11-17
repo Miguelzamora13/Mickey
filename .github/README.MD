@@ -37,7 +37,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <h2 align="center"> ──「 ᴅᴇᴍᴏ ʀᴏʙᴏᴛ 」──</h2>
 <i>ᴀʟʟ ᴛʜᴇ ᴄᴜsᴛᴏᴍɪsᴀᴛɪᴏɴs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ. ᴊᴜsᴛ ᴄʜᴇᴄᴋᴏᴜᴛ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴠᴀʀɪᴀʙʟᴇs.</i>
-<p align="center"><a href="https://t.me/mickeymouse_robot"> <img src="https://img.shields.io/badge/Check-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
+<p align="center"><a href="https://t.me/Teloloapanbot"> <img src="https://img.shields.io/badge/Check-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
 
 
 <h2 align="center"> ──「 sᴜᴘᴘᴏʀᴛ 」──</h2>
@@ -50,8 +50,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <h3 align="center">──「 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 」──</h3>
 
-- [ᴘʀᴀɴᴀᴠ ᴀᴊᴀʏ](https://github.com/Moezilla)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)
+- [ᴘʀᴀɴᴀᴠ ᴀᴊᴀʏ](https://github.com/Miguelzamora13)
+- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/Miguelzamora13/Mickey)
 - [ᴀʙɪsʜɴᴏɪ](https://t.me/Teloloapanbot)
 - [ʜʏᴘᴇʀ ᴋɪɴɢ](https://t.me/Teloloapanbot)
 
