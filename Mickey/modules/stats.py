@@ -16,4 +16,3 @@ async def stats(cli: Client, message: Message):
 ➻ **ᴄʜᴀᴛs :** {chats}
 ➻ **ᴜsᴇʀs :** {users}"""
     )
-    
