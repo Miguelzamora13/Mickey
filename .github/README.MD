@@ -45,7 +45,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <p align="center"><a href="https://t.me/DEVBOTZ"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/Miguelzamora13/Mickey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Devarora-0981&repo=Mickey&theme=chartreuse-dark"></a>
+<a href="https://github.com/Miguelzamora13/Mickey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguelzamora13&repo=Mickey&theme=chartreuse-dark"></a>
 
 
 <h3 align="center">──「 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 」──</h3>
